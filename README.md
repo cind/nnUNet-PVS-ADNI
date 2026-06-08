@@ -16,6 +16,7 @@ Please follow the instructions on downloading the nnU-Net model and following it
 
 ## 3. Model weights
 Model weights can be downloaded here: https://drive.google.com/drive/folders/1JbD21oXlXpIVpF250ITSY0xt13yjnTaK?usp=drive_link
+
 Weights can be placed in the nnU-Net `results` folder:
 ```text
 nnUNet_results/
@@ -24,6 +25,7 @@ nnUNet_results/
 ```
 ## 4. Running the model
 Please follow the instruction on how to inference with nnU-Net models: https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/how-to/run-inference.md
+
 An example script is provided in this repository under `inference_ex.sh`.
 
 ## 5. Problems?
