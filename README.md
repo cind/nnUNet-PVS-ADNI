@@ -13,6 +13,7 @@ Images used in training underwent ANTS non-local means denoising, followed by Fr
 
 ## 2. Model download and folder structuring
 Please follow the instructions on downloading the nnU-Net model and following its folder structure: https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/getting-started/installation-and-setup.md
+
 This model uses the nnUNetv2 version, so please follow instructions to download that one!
 
 ## 3. Model weights
