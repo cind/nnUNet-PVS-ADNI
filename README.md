@@ -2,7 +2,9 @@
 This is an nnU-Net based model trained and tested on 60 ADNI-3 3T T1 and co-registered FLAIR images, with equal distribution across diagnostic groups (CU: n=20, MCI: n=20, AD: n=20). Model is capable of doing whole-brain segmentation.
 
 If you use this model in your research, please cite the following paper: 
-<pre>Tang S, Thropp P, Hausle I, Younes K and Tosun D. (2026) Spatial coupling of enlarged perivascular spaces and white matter lesions across the Alzheimer's disease continuum. Front. Neurosci. 20:1772024. doi: 10.3389/fnins.2026.1772024</pre>
+<pre>Tang S, Thropp P, Hausle I, Younes K and Tosun D. (2026) 
+    Spatial coupling of enlarged perivascular spaces and white matter lesions across the Alzheimer's disease continuum. 
+    Front. Neurosci. 20:1772024. doi: 10.3389/fnins.2026.1772024</pre>
 
 # How to run this model
 
