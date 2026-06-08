@@ -31,4 +31,4 @@ Please follow the instruction on how to inference with nnU-Net models: https://g
 An example script is provided in this repository under `inference_ex.sh`.
 
 ## 5. Problems?
-If there are any issues with running this model, please contact xxx.
+If there are any issues with running this model, please contact serenatang@berkeley.edu.
