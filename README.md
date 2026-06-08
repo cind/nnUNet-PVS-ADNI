@@ -1,5 +1,5 @@
 # nnUNet-PVS-ADNI
-This is an nnU-Net based model trained and tested on 60 ADNI-3 3T T1 and co-registered FLAIR images, with equal distribution across diagnostic groups (CU: n=20, MCI: n=20, AD: n=20). Model is capable of doing whole-brain segmentation.
+This is an nnU-Net based model trained (n=50) and tested (n=10) on n=60 ADNI-3 3T T1 and co-registered FLAIR images, with equal distribution across diagnostic groups (CU: n=20, MCI: n=20, AD: n=20). Model will perform whole-brain segmentation.
 
 If you use this model in your research, please cite the following paper: 
 <pre>Tang S, Thropp P, Hausle I, Younes K and Tosun D. (2026) 
@@ -13,6 +13,7 @@ Images used in training underwent ANTS non-local means denoising, followed by Fr
 
 ## 2. Model download and folder structuring
 Please follow the instructions on downloading the nnU-Net model and following its folder structure: https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/getting-started/installation-and-setup.md
+This model uses the nnUNetv2 version, so please follow instructions to download that one!
 
 ## 3. Model weights
 Model weights can be downloaded here: https://drive.google.com/drive/folders/1JbD21oXlXpIVpF250ITSY0xt13yjnTaK?usp=drive_link
